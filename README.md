@@ -1,6 +1,6 @@
 # MIT Research Team Technical Assessment (Lex Fridman's Team)
 
-The assessment was completed and passed in 2017. Unfortunately, the interview with the team did not lead to a role.
+This coding challenge was completed and passed in 2017. It involved reverse engineering a random number generator. Unfortunately, the interview with the team did not lead to a full-time role.
 
 # Problem Statement Overview
 
